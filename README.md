@@ -1,2 +1,2 @@
 # hello-world
-Test of GitHub
+Testing the functionality of GitHub for use within SWC.
